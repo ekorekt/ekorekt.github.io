@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Nosotros
 permalink: /about/
 ---
 
-Some information about you!
+He creado este sitio web para nuestra clase SPA 412.
 
-### More Information
+### Contenido
 
-A place to include any other types of information that you'd like to include about yourself.
+En realidad, no habrá mucho contenido hasta que decidamos utilizarlo. Espere actualizaciones.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ekrem.emir@gmail.com](mailto:ekrem.emir@gmail.com)
