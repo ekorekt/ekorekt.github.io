@@ -1,16 +1,16 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://ekremir.xyz'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Ekrem Emir's blog"
 theme = 'PaperMod'
 
 [params.homeInfoParams]
-Title = "Hi there wave"
-Content = "Can be Info, links, about..."
+Title = "Ekrem Emir"
+Content = "Here you can find information about me and projects I try to do. Contact links down below."
 
 [[params.socialIcons]]
-name = "<platform>"
-url = "<link>"
+name = "Github"
+url = "https://github.com/ekorekt"
 
 [[params.socialIcons]]
-name = "<platform 2>"
+name = "LinkedIn"
 url = "<link2>"
